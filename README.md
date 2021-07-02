@@ -1,2 +1,2 @@
 # Your-hand
-For Hackathon: GR10: Art Bounty
+For Hackathon: GR10: Art Bounty.
